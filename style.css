@@ -89,3 +89,9 @@ button{
         transform: translateX(0);
     }
 }
+.footer{
+        margin-top: 10px;
+        font-size: 15px;
+        color:#0a0a0a;
+        text-align: center;
+}
